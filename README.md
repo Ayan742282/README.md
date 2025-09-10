@@ -6,6 +6,6 @@
   <body>
       <h1>Our Page</h1>
       <p>This Is Our First Text</p>
-      <a href="www.google.com" target="blank">Google</a>
+      <a href="www.google.com">Google</a>
   </body>
 </html>
